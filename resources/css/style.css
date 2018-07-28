@@ -7,3 +7,17 @@ div {
   background-image: url(../images/building.png);
   color: white;
 }
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}

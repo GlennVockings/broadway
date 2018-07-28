@@ -8,8 +8,8 @@ div {
   color: white;
 }
 
-ul {
-  list-style-type: none;
+p {
+  display: block;
 }
 
 a {
@@ -19,5 +19,15 @@ a {
 
 h1 {
   font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
   font-weight: bold;
 }
